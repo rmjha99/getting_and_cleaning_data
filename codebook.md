@@ -1,5 +1,5 @@
 # About the Code in R 
-## Working of the Code
+## {I} Working of the Code
 This code works in the following manner:
 
 0) Downloading and unzipping dataset.
@@ -39,7 +39,7 @@ This code works in the following manner:
     5.1) creates a tidy data set with the average of each variable for each activity and each subject
     
    
-## Raw Data Collection
+## {II} Raw Data Collection
 
 The data for this project is available at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
@@ -53,7 +53,7 @@ The folder includes the following data sets that are being used:
 - 'train/subject_train.txt' and 'test/subject_test.txt': Each row identifies the subject who performed the activity for each window sample for training and test set respectively. Its range is from 1 to 30.
 
 
-## Descriptions of new variables
+## {III} Descriptions of new variables
 
 - activity_labels: link class labels with their activity name
 - features: list of all features
