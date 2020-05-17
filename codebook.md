@@ -69,4 +69,6 @@ The folder includes the following data sets that are being used:
 - train: training set together with subject and activity
 - test: test set together with subject and activity
 - mergeddata: merged data set including both train and test
+- mean_and_std: for mean and standard deviation
+- setForMeanAndStd: subset of mergeddata
 - summary_data: summary data set with the average of each variable for each activity and each subject
